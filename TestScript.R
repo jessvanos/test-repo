@@ -6,5 +6,4 @@
 
 #R COMMAND PRACTICE SECTION
 
-#C
-#F
+#
