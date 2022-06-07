@@ -1,7 +1,10 @@
 ###############################################################################
 
-# Another test file to learn how to use GitHub
+# Another test file to learn how to use GitHub!
 
 ###############################################################################
 
 #R COMMAND PRACTICE SECTION
+
+#C
+#F
